@@ -6,9 +6,10 @@ This repository contains my week-wise hands-on assignments for the **Cognizant D
 
 Each week focuses on a specific set of skills including **C# programming, Design Patterns, Data Structures & Algorithms, SQL, Web API development, React**, and more.
 
-# 👨‍🎓 Author
+## 👨‍🎓 Author
 
 Ashutosh Dash  
+2206248
 3rd Year B.Tech (IT)
 KIIT DU, Bhubaneswar
 Cognizant DN 4.0 .NET Deep Skilling Program  
