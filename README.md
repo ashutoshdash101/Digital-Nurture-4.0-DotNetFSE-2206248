@@ -9,7 +9,6 @@ Each week focuses on a specific set of skills including **C# programming, Design
 ### 👨‍🎓 Author
 
 Ashutosh Dash  
-2206248  
-3rd Year B.Tech (IT)  
+Superset ID: 6365404  
 KIIT DU, Bhubaneswar  
 Cognizant DN 4.0 .NET Deep Skilling Program  
