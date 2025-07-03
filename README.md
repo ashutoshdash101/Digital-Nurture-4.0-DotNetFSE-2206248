@@ -1,6 +1,6 @@
 # DotNetFSE-4.0 (SUPERSET ID - 6365404)
 
-## .NET Deep Skilling Program – Week-wise Assignments
+## .NET Deep Skilling Program – Week_wise Assignments
 
 This repository contains my week-wise hands-on assignments for the **Cognizant DN 4.0 .NET Full Stack Engineer (FSE)** Deep Skilling Program.
 
