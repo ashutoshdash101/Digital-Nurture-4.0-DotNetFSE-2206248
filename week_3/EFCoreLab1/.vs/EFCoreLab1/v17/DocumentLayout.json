@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_3\\lab 1\\efcorelab1\\efcorelab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|solutionrelative:efcorelab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_3\\lab 1\\efcorelab1\\efcorelab1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|solutionrelative:efcorelab1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_3\\lab 1\\efcorelab1\\efcorelab1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|solutionrelative:efcorelab1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_3\\lab 1\\efcorelab1\\efcorelab1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|solutionrelative:efcorelab1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Migrations\\20250706081039_RetailInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFCoreLab1\\Migrations\\20250706081039_RetailInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_3\\lab 1\\efcorelab1\\efcorelab1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F621C0-5162-412D-92B0-5E88792ED76C}|EFCoreLab1\\EFCoreLab1.csproj|solutionrelative:efcorelab1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Migrations\\20250706080107_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFCoreLab1\\Migrations\\20250706080107_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFCoreLab1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Models\\Product.cs",
+              "RelativeToolTip": "EFCoreLab1\\Models\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:07:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EFCoreLab1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Models\\Category.cs",
+              "RelativeToolTip": "EFCoreLab1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:07:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250706080107_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Migrations\\20250706080107_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EFCoreLab1\\Migrations\\20250706080107_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Migrations\\20250706080107_InitialCreate.cs",
+              "RelativeToolTip": "EFCoreLab1\\Migrations\\20250706080107_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:01:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreLab1\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\AppDbContext.cs",
+              "RelativeToolTip": "EFCoreLab1\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:57:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreLab1\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Program.cs",
+              "RelativeToolTip": "EFCoreLab1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:54:25.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250706081039_RetailInit.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Migrations\\20250706081039_RetailInit.cs",
+              "RelativeDocumentMoniker": "EFCoreLab1\\Migrations\\20250706081039_RetailInit.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Migrations\\20250706081039_RetailInit.cs",
+              "RelativeToolTip": "EFCoreLab1\\Migrations\\20250706081039_RetailInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:10:40.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreLab1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_3\\Lab 1\\EFCoreLab1\\EFCoreLab1\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCoreLab1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:57:00.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
