@@ -6,7 +6,7 @@ This repository contains my week-wise hands-on assignments for the **Cognizant D
 
 Each week focuses on a specific set of skills including **C# programming, Design Patterns, Data Structures & Algorithms, SQL, Web API development, React**, and more.
 
-### 👨‍🎓 Author
+### 👨‍🎓 Author 
 
 Ashutosh Dash  
 Superset ID: 6365404  
