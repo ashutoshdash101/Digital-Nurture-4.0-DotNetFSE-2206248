@@ -1,4 +1,4 @@
-# DotNetFSE-4.0 (SUPERSET ID -- 6365404)
+# DotNetFSE-4.0 (SUPERSET ID - 6365404)
 
 ## .NET Deep Skilling Program – Week_wise Assignments
 
