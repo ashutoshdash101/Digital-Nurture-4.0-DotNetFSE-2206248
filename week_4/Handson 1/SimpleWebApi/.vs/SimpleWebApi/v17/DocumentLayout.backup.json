@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_4\\Handson 1\\SimpleWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD975DAA-759D-4B47-8C99-CAC0517298E3}|SimpleWebApi\\SimpleWebApi.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_4\\handson 1\\simplewebapi\\simplewebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD975DAA-759D-4B47-8C99-CAC0517298E3}|SimpleWebApi\\SimpleWebApi.csproj|solutionrelative:simplewebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_4\\Handson 1\\SimpleWebApi\\SimpleWebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "SimpleWebApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_4\\Handson 1\\SimpleWebApi\\SimpleWebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "SimpleWebApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:07:34.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
