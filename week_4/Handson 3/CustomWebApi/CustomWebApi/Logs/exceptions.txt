@@ -1,0 +1,12 @@
+[11-07-2025 19:56:15] Test Exception
+[11-07-2025 19:56:53] Test Exception
+[11-07-2025 19:57:11] Test Exception
+[11-07-2025 19:57:56] Test Exception
+[11-07-2025 19:59:25] Test Exception
+[11-07-2025 22:26:10] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
+[11-07-2025 22:26:16] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
+[11-07-2025 22:26:24] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
+[11-07-2025 22:33:37] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
+[11-07-2025 22:39:16] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
+[11-07-2025 22:39:26] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
+[11-07-2025 22:52:17] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
