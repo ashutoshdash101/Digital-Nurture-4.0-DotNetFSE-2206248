@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_5\\kafkachatwinformapp\\kafkachatwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|solutionrelative:kafkachatwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_5\\kafkachatwinformapp\\kafkachatwinformapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|solutionrelative:kafkachatwinformapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_5\\kafkachatwinformapp\\kafkachatwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|solutionrelative:kafkachatwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_5\\kafkachatwinformapp\\kafkachatwinformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|solutionrelative:kafkachatwinformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_5\\kafkachatwinformapp\\kafkachatwinformapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|solutionrelative:kafkachatwinformapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|c:\\users\\kiit\\desktop\\dotnet\\week_5\\kafkachatwinformapp\\kafkachatwinformapp\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DA417B6C-D41A-4975-A3DF-1B2851009D25}|KafkaChatWinFormApp\\KafkaChatWinFormApp.csproj|solutionrelative:kafkachatwinformapp\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\App.config",
+              "RelativeDocumentMoniker": "KafkaChatWinFormApp\\App.config",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\App.config",
+              "RelativeToolTip": "KafkaChatWinFormApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-20T18:03:12.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaChatWinFormApp\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Program.cs",
+              "RelativeToolTip": "KafkaChatWinFormApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:55:04.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.resx",
+              "RelativeDocumentMoniker": "KafkaChatWinFormApp\\Form1.resx",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.resx",
+              "RelativeToolTip": "KafkaChatWinFormApp\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-20T17:47:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaChatWinFormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.cs",
+              "RelativeToolTip": "KafkaChatWinFormApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:30:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KafkaChatWinFormApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.Designer.cs",
+              "RelativeToolTip": "KafkaChatWinFormApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:27:29.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaChatWinFormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DOTNET\\Week_5\\KafkaChatWinFormApp\\KafkaChatWinFormApp\\Form1.cs [Design]",
+              "RelativeToolTip": "KafkaChatWinFormApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:56:20.316Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
