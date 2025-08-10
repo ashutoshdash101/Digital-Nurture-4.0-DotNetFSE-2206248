@@ -1,0 +1,5 @@
+# Ignore all .log files
+*.log
+
+# Ignore the entire log folder
+log/*.orig
